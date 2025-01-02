@@ -1,4 +1,4 @@
-import NavBar from "./components/NavBar.jsx"
+import NavBar from "./components/NavBar"
 
 const App = () => {
   return (
@@ -6,6 +6,6 @@ const App = () => {
       <NavBar />
     </div>
   )
-}
+};
 
 export default App
